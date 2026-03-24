@@ -2,15 +2,17 @@
 
 A collection of five machine learning case studies covering core concepts from regression to deep learning, implemented with scikit-learn, TensorFlow/Keras, and standard Python data science libraries.
 
+See [CASE_STUDY.md](CASE_STUDY.md) for a plain-language explanation of each case study.
+
 ## Case Studies
 
 | # | Directory | Topic | File |
 |---|-----------|-------|------|
-| 1 | `CS-1` | Linear Regression — House Price Prediction | `case_study_1.ipynb` |
-| 2 | `CS-2` | PCA — Wine Dataset Feature Extraction | `case_study_2.py` |
-| 3 | `CS-3` | Classification (KNN) — Iris Dataset | `case_study_3.ipynb` |
-| 4 | `CS-4` | Clustering (KMeans) — Iris Dataset | `case_study_4.ipynb` |
-| 5 | `CS-5` | CNN — MNIST Digit Classification | `case_study_5.ipynb` |
+| 1 | `01-house-price-regression` | Linear Regression — House Price Prediction | `house_price_regression.ipynb` |
+| 2 | `02-wine-pca` | PCA — Wine Dataset Feature Extraction | `wine_pca.py` |
+| 3 | `03-iris-classification` | Classification (KNN) — Iris Dataset | `iris_classification.ipynb` |
+| 4 | `04-iris-clustering` | Clustering (KMeans) — Iris Dataset | `iris_clustering.ipynb` |
+| 5 | `05-mnist-cnn` | CNN — MNIST Digit Classification | `mnist_cnn.ipynb` |
 
 ## Setup
 
